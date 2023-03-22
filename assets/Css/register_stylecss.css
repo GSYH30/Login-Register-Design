@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url("../img/night-sky-moon-forest.png");
+    background-image: url("../img/nightskymoonforest.png");
     background-size: cover;
     backdrop-filter: blur(5px);
 }
@@ -20,7 +20,7 @@ section {
 
 .container {
     background-position: center top;
-    background-image: url("../img/night-sky-moon-forest.png");
+    background-image: url("../img/nightskymoonforest.png");
   
     height: 450px;
     width: 400px;
